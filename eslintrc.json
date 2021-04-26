@@ -16,6 +16,11 @@
         "max": 3
       }
     ],
-    "max-lines": ["error", 150]
+    "max-lines": ["error", {
+      "max": 150,
+      "skip-blank-lines": true,
+      "skip-comments": true
+      }
+    ]
   }
 }
