@@ -1,0 +1,21 @@
+{
+  "rules": {
+    "complexity": ["error", 5],
+    "max-params": ["error", 4],
+    "max-statements": ["error", 7],
+    "max-statements-per-line": [
+      "error",
+      {
+        "max": 1
+      }
+    ],
+    "max-nested-callbacks": ["error", 2],
+    "max-depth": [
+      "error",
+      {
+        "max": 3
+      }
+    ],
+    "max-lines": ["error", 150]
+  }
+}
