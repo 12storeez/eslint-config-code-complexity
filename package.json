@@ -1,0 +1,26 @@
+{
+  "name": "eslint-config-code-complexity",
+  "version": "1.0.0",
+  "description": "Eslint config for adding code complexity constraints to code linting.",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/12storeez/eslint-config-code-complexity.git"
+  },
+  "keywords": [
+    "eslint",
+    "config",
+    "complexity"
+  ],
+  "author": "m0rtyn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/12storeez/eslint-config-code-complexity/issues"
+  },
+  "homepage": "https://github.com/12storeez/eslint-config-code-complexity#readme"
+}
