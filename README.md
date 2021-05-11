@@ -4,11 +4,21 @@ Eslint config for adding code complexity constraints to code linting. Let's make
 
 ## Usage
 
+1. Add dev dependency:
+
 `npm install --save-dev eslint-config-code-complexity`
 
 or
 
 `yarn add -D eslint-config-code-complexity`
+
+2. Add config extending in eslint config file (e.g. `.eslintrc.json`):
+
+```
+...
+"extends": ["eslint-config-code-complexity"],
+...
+```
 
 ## Rules description
 
